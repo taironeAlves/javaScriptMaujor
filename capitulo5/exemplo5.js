@@ -10,4 +10,4 @@ function a(valor, indice, obj) {
 }
 
 arr.forEach(a);
-console.log(msg)
+console.log(msg);
