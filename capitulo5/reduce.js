@@ -1,4 +1,4 @@
-// Redunce reduz um array em um único valor, frequentemente utilizando para fazer soma, multiplicação e concatenação
+// Redunce, reduz um array em um único valor, frequentemente utilizando para fazer soma, multiplicação e concatenação
 
 let arr = [1, 4, 7, 15];
 
