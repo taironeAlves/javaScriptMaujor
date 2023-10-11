@@ -1,5 +1,5 @@
-// substring(), faz semelhante ao slice, porem, se o paramentro a for maior que b, então a ordem será invertida.
+// Math
 
-let s = 'JavaScript é uma linguagem legal';
-
-console.log(s.substring(5, -2)) 
+let a = 'O rato roeu a roupa do rei';
+let b = /r[a-z]/g;
+console.log(a.match(b))
